@@ -46,4 +46,3 @@ The project uses **OpenCV** to continuously capture frames, apply a mask based o
 
 ---
 
-Just tell me!
